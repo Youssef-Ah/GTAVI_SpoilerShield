@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GTA VI Spoiler Shield</string>
+    <string name="accessibility_description">Checks visible text in Facebook and YouTube locally for user-defined spoiler keywords and attempts to scroll the matching feed card out of view.</string>
+</resources>
